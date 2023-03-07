@@ -1,7 +1,5 @@
-import React from 'react'
-
 export const Rama = () => {
   return (
-    <div>Rama</div>
+    <h2>Rama</h2>
   )
 }
