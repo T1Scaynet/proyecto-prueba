@@ -1,5 +1,5 @@
-export default function TANI() {
+export const Tani = () => {
   return (
-    <h2>Holas soy tani dea</h2>
+    <h2>Tani</h2>
   )
 }
