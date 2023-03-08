@@ -13,8 +13,8 @@ function App() {
     <div className="App">
       <h1>Hello Team</h1>
       <Gustavo/>
-      <Rama />
       <Joaco />
+      <Rama />
       <Rodrigo />
       <Romina />
       <Selene />
